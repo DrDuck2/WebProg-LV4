@@ -1,3 +1,5 @@
 <?php
 
-echo "hello LV4 homework";
+require 'index.html';
+
+?>
